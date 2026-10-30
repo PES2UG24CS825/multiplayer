@@ -1,0 +1,2 @@
+Builds/** filter=lfs diff=lfs merge=lfs -text
+WebGL/** filter=lfs diff=lfs merge=lfs -text
